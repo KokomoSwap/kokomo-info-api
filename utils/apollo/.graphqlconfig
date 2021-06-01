@@ -1,0 +1,15 @@
+{
+  "name": "PantherSwap Exchange Lite",
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "PantherSwap Exchange Lite": {
+        "url": "https://api.thegraph.com/subgraphs/name/lichkingvamvoo/kokomoswap",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": false
+      }
+    }
+  }
+}
