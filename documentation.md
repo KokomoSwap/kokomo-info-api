@@ -57,13 +57,13 @@ Returns the tokens in the top ~1000 pairs on kokomoSwap, sorted by reserves.
 }
 ```
 
-## [`/tokens/0x...`](https://api-info.kokomoswap.io/api/tokens/0x1f546ad641b56b86fd9dceac473d1c7a357276b7)
+## [`/tokens/0x...`](https://api-info.kokomoswap.io/api/tokens/0x9a7b87651c6c93cedb831b2b3b5549142a813cfe)
 
 Returns the token information, based on address.
 
 ### Request
 
-`GET https://api-info.kokomoswap.io/api/tokens/0x1f546ad641b56b86fd9dceac473d1c7a357276b7`
+`GET https://api-info.kokomoswap.io/api/tokens/0x9a7b87651c6c93cedb831b2b3b5549142a813cfe`
 
 ### Response
 
